@@ -5,7 +5,7 @@ const serverData = `server|34.233.5.49
 port|55000
 type|1
 type2|1
-loginurl|temporary-rapid-summit-r5fxk0z.vercel.app
+loginurl|temporary-sonic-flint-664fe2l.vercel.app
 beta_server|127.0.0.1
 beta_port|17091
 beta_type|1
