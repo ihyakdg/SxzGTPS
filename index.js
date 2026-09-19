@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 
-const serverData = `server|13.49.78.155
+const serverData = `server|172.236.152.41
 port|55000
 type|1
 type2|1
